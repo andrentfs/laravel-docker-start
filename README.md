@@ -6,6 +6,11 @@ Laravel for Docker by Andrentfs
 
 #### Crie os containers com Docker
 
+Clone o repositório. 
+
+```
+git clone 
+
 ```bash
 $ docker-compose up
 ```
