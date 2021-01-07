@@ -9,7 +9,7 @@ Laravel for Docker by Andrentfs
 Clone o repositório. 
 
 ```
-git clone https://github.com/andrentfs/laravel-docker-start.git
+$ git clone https://github.com/andrentfs/laravel-docker-start.git
 
 $ docker-compose up
 ```
